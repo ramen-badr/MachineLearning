@@ -5,3 +5,5 @@ uv.lock
 
 # general
 .venv
+pyvenv.cfg
+lib64
